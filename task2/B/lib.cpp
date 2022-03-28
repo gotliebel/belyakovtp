@@ -1,4 +1,5 @@
 #include "lib.h"
-void DoSomething() {
-	return;
+#include <iostream>
+void PrintThree() {
+	std::cout << 3;
 }

@@ -1,1 +1,2 @@
-void DoSomething();
+#pragma once
+void PrintThree();
